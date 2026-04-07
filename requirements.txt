@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+streamlit
+sqlalchemy
+psycopg[binary]
+pydantic
+pydantic-settings
+langchain
+langchain-google-genai
+google-generativeai
+chromadb
+python-dotenv
+requests
+langchain-chroma
+langchain-text-splitters
