@@ -341,6 +341,12 @@ User -> Streamlit UI -> FastAPI API -> Chat Service -> Simple Agent
 
 ## Detailed Flow
 
+### UI page looks like below:
+
+<img width="1269" height="905" alt="image" src="https://github.com/user-attachments/assets/d9c9404e-8eb9-4099-9d6c-f293151856cc" />
+
+<img width="1092" height="893" alt="image" src="https://github.com/user-attachments/assets/15f529d0-ca32-4cf7-93fb-4f2eaa98420b" />
+
 ### Direct Answer Flow
 
 1. User asks a general question in Streamlit
